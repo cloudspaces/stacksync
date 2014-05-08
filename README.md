@@ -1,2 +1,1 @@
-stacksync
-=========
+Please, refer to http://github.com/stacksync
